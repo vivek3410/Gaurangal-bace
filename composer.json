@@ -6,6 +6,8 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
+        "codeat3/blade-fluentui-system-icons": "^1.32",
+        "codeat3/blade-unicons": "^1.7",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/breeze": "^1.26",
         "laravel/framework": "^10.10",
